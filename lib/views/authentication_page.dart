@@ -22,14 +22,14 @@ class AuthenticationPage extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const Spacer(flex: 3),
-              // Firebase Logo
+
               Image.network(
                 'https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_256dp.png',
                 height: 180,
                 errorBuilder: (context, error, stackTrace) => const Icon(Icons.local_fire_department, size: 100, color: Colors.orange),
               ),
               const Spacer(flex: 3),
-              // Google Button
+
               SizedBox(
                 width: double.infinity,
                 height: 55,
@@ -83,7 +83,7 @@ class AuthenticationPage extends StatelessWidget {
                 ),
               ),
               const SizedBox(height: 16),
-              // Phone Button
+
               SizedBox(
                 width: double.infinity,
                 height: 55,
