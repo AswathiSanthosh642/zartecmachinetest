@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "674494963473",
+    "project_id": "zartecmachinetest",
+    "storage_bucket": "zartecmachinetest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674494963473:android:0c0db8b8039e8428a576b0",
+        "android_client_info": {
+          "package_name": "com.example.zartechmachinetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674494963473-g2tq4vprn6rh0sknnbkkson3tamtr12a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2tn18ATYw075MjLbZTWxPF6NU3Umy5gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674494963473-g2tq4vprn6rh0sknnbkkson3tamtr12a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674494963473:android:3c5690f8c90e6f14a576b0",
+        "android_client_info": {
+          "package_name": "com.luminar.zartecmachinetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674494963473-64djiphb4m4eidi3776v2abppuvkt8to.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luminar.zartecmachinetest",
+            "certificate_hash": "23ce6da75c979592609fcbae9046e21396afc5c2"
+          }
+        },
+        {
+          "client_id": "674494963473-g2tq4vprn6rh0sknnbkkson3tamtr12a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2tn18ATYw075MjLbZTWxPF6NU3Umy5gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674494963473-g2tq4vprn6rh0sknnbkkson3tamtr12a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
